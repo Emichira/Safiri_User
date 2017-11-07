@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "910660215773",
+    "firebase_url": "https://safiri-a900f.firebaseio.com",
+    "project_id": "safiri-a900f",
+    "storage_bucket": "safiri-a900f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910660215773:android:d71d35f1ddc1ff86",
+        "android_client_info": {
+          "package_name": "com.kevinmaina.safiricustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910660215773-ggpn3fqn4c90o290dh2tlq8g7focfpl8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kevinmaina.safiricustomer",
+            "certificate_hash": "7f474fd37706fd84e94c397d32fcfb1f9772ca69"
+          }
+        },
+        {
+          "client_id": "910660215773-tooc89g927s0dqngpf3g2tn4kq17bhh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEZqtuycg66thvsQ89u4huY699pEolW08"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910660215773-tooc89g927s0dqngpf3g2tn4kq17bhh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
